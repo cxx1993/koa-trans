@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["aa","console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,SAASA,EAAT,GAAa;AACXC,EAAAA,OAAO,CAACC,GAAR,CAAY,CAAZ;AACD","file":"index.map","sourceRoot":"../bin","sourcesContent":["function aa(){\n  console.log(1)\n}"]}
